@@ -1,0 +1,8 @@
+.publishingDiv {
+  height: 25%;
+  width: 25%;
+  left: 0;
+  bottom: 0;
+  position: fixed;
+  z-index: 1;
+}

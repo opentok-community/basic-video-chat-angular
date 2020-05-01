@@ -1,0 +1,6 @@
+<form class="joinForm" [formGroup]="joinRoomForm" (ngSubmit)="onSubmit(joinRoomForm.value)">
+  <div>
+    <input placeholder="room name" id="roomName" type="text" formControlName="roomName" align="center">
+  </div>
+  <button align="center" class="button" type="submit">Join</button>
+</form>

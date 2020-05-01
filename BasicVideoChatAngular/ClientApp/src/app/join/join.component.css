@@ -1,0 +1,20 @@
+form {
+  display: normal;
+  text-align: center;
+  margin: auto;
+}
+
+input {
+  display: inline-block;
+  font-size: inherit;
+  padding: .5em;
+  margin-bottom: .2em;
+  width: 300px;
+}
+
+button {
+  display: inline-block;
+  font-size: inherit;
+  padding: .5em;
+  width: 300px;
+}
